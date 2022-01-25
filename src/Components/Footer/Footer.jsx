@@ -80,12 +80,12 @@ const Footer = () => {
         >
           Created with care by{" "}
           <a
-            href="https://github.com/sabesansathananthan/covid-19-tracker"
+            href="https://github.com/saksham0308"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "rgba(0,0,255,0.6)", textDecoration: "none" }}
           >
-            Sabesan Sathananthan
+            Saksham Sharma
           </a>
         </h6>
       </div>
